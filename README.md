@@ -3,6 +3,6 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 -<b>Active Directory and Virtual Machines</b> 
- -https://github.com/JuneRoseIT/Windows_Server_AD_Homelab_
+  -https://github.com/JuneRoseIT/Windows_Server_AD_Homelab_
 - <b>Homelabbing and Pi-Hole</b>
   - https://github.com/JuneRoseIT/Ubuntu-and-PiHole 
